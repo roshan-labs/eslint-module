@@ -12,9 +12,6 @@ export default defineNuxtModule<ModuleOptions>({
     version,
     configKey: 'eslint',
   },
-  defaults: {
-    cache: true,
-  },
   setup(options) {
     addVitePlugin(eslint(options))
   },
