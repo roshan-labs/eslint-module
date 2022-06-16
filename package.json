@@ -22,6 +22,7 @@
     "release": "standard-version"
   },
   "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "config": {
