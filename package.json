@@ -31,19 +31,17 @@
     }
   },
   "dependencies": {
-    "@nuxt/kit": "^3.0.0-rc.3",
-    "vite-plugin-eslint": "^1.6.1"
+    "@nuxt/kit": "^3.0.0-rc.6",
+    "vite-plugin-eslint": "^1.7.0"
   },
   "devDependencies": {
-    "@nuxt/module-builder": "latest",
-    "@nuxtjs/eslint-config-typescript": "latest",
+    "@nuxt/module-builder": "^0.1.7",
+    "@roshan-labs/eslint-config": "^1.1.0",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.15.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "nuxt": "^3.0.0-rc.3",
-    "prettier": "^2.6.2",
-    "standard-version": "^9.3.2"
+    "eslint": "^8.20.0",
+    "nuxt": "3.0.0-rc.6",
+    "prettier": "^2.7.1",
+    "standard-version": "^9.5.0"
   },
   "peerDependencies": {
     "eslint": ">=7"
