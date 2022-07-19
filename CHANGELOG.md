@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/roshan-labs/eslint-module/compare/v0.1.2...v0.1.3) (2022-07-19)
+
+
+### Features
+
+* 支持 vite3 ([acfb5ed](https://github.com/roshan-labs/eslint-module/commit/acfb5edb93fa451a85a459a5bd111c1ee1dd283e))
+
 ### [0.1.2](https://github.com/roshan-labs/eslint-module/compare/v0.1.1...v0.1.2) (2022-06-16)
 
 
