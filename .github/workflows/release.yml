@@ -1,0 +1,10 @@
+name: Release
+
+on: push
+
+jobs:
+  console-log:
+    runs-on: ubuntu-latest
+    steps:
+      name: Github context
+      run: echo ${{ toJSON(github) }}
