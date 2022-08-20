@@ -1,6 +1,7 @@
 # @roshan-labs/eslint-module
 
 [![npm (scoped)](https://img.shields.io/npm/v/@roshan-labs/eslint-module)](https://www.npmjs.com/package/@roshan-labs/eslint-module)
+[![GitHub](https://img.shields.io/github/license/roshan-labs/eslint-module)](https://github.com/roshan-labs/eslint-module/blob/main/LICENSE)
 
 ESLint module for Nuxt, based on [vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint).
 
@@ -33,4 +34,4 @@ View [vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint) optio
 
 ## License
 
-MIT
+[MIT](https://github.com/roshan-labs/eslint-module/blob/main/LICENSE)
