@@ -15,11 +15,10 @@
     "dist"
   ],
   "scripts": {
-    "prepare": "npm run dev:prepare",
-    "prepack": "nuxt-module-build",
     "dev": "nuxi dev playground",
     "dev:build": "nuxi build playground",
     "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground",
+    "build": "nuxt-module-build",
     "release": "standard-version"
   },
   "repository": {
@@ -36,15 +35,15 @@
     }
   },
   "dependencies": {
-    "@nuxt/kit": "^3.0.0-rc.8",
+    "@nuxt/kit": "3.0.0-rc.11",
     "vite-plugin-eslint": "^1.8.1"
   },
   "devDependencies": {
     "@nuxt/module-builder": "^0.1.7",
     "@roshan-labs/eslint-config": "^1.1.0",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.20.0",
-    "nuxt": "3.0.0-rc.8",
+    "eslint": "^8.25.0",
+    "nuxt": "3.0.0-rc.11",
     "prettier": "^2.7.1",
     "standard-version": "^9.5.0"
   },
